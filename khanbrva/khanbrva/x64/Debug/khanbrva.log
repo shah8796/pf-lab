@@ -1,0 +1,4 @@
+﻿  21l-1883.cpp
+F:\pf labs\khanbrva\khanbrva\21l-1883.cpp(143,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\pf labs\khanbrva\khanbrva\21l-1883.cpp(149,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  khanbrva.vcxproj -> F:\pf labs\khanbrva\x64\Debug\khanbrva.exe
